@@ -1,0 +1,8 @@
+lire un fichier texte
+Quel type represente un fichier txt
+String-> Path -> Contenu en String -> Split -> String Array [] -> Arraylist<String>
+
+
+test green et parametrer la source du dictionnaire
+
+Creer un invariant anagrame : getwords ne peux etre appeler que si un dictionnaire a été chargé.
